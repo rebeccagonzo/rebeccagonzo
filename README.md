@@ -3,33 +3,35 @@
 ![Banner](https://github.com/rebeccagonzo/rebeccagonzo/blob/main/github%20readme%20banner.gif?raw=true)
 
 ### About Me & My Interests:
-⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 
+⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪
 
 **💻 Currently Building**
 - Expanding past academic projects into creative pieces  
   - LLM Crypto interactive site
 
-### 🍵 Currently Learning: 
+**🍵 Currently Learning:**
 - Strengthening backend architecture/system design skills
 - Patent fundamentals & prior art research 
 
-### 👓 Fields of Interest: 
+**👓 Fields of Interest:** 
 - Tech PM Strategy  
 - Software Development 
 - Intellectual Property & Innovation  
 
-### 🧚🏼‍♀️ Outside of Tech:
+**🧚🏼‍♀️ Outside of Tech:**
 - Currently reading: *Project Hail Mary* by Andy Weir  
 - Baking homemade classics  
 - Hot yoga, lifting & training for a half marathon 
 
-### 🌟 2026 Goals:
-- Create + Launch personal website + blog
+**🌟 2026 Goals:**
+- Create and launch personal website + blog
 - Extend/Create 2-3 projects for portfolio 
 
-### 💌 Connect with me!:
-- 📧 Email  
-- 💼 LinkedIn  
+**💌 Connect with me!:**
+- 📧 [Email](rebeccagonzo28@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rebeccagonzo/)
+- 🪄 [Instagram](https://www.instagram.com/rebecca.gonzo/)
+
 
 ---
 
