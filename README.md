@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 style="text-align: center;">Hello everyone! Welcome to my GitHub ✨</h1>
 
-<!--
-**rebeccagonzo/rebeccagonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/rebeccagonzo/rebeccagonzo/blob/main/github%20readme%20banner.gif?raw=true)
 
-Here are some ideas to get you started:
+### A little about me & my interests:
+⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Currently Working On
+- Expanding past academic projects into creative pieces  
+
+#### 🍵 Currently learning:
+- Expanding past academic projects into portfolio-ready applications  
+- Strengthening backend architecture + system design skills 
+- Patent fundamentals & prior art research 
+
+#### 👓 Fields of interest: 
+- Tech Product / Program Strategy  
+- Software Development 
+- AI & Emerging Technologies  
+- Intellectual Property & Innovation  
+
+#### 🧚🏼‍♀️ Hobbies:
+- Currently reading: *Project Hail Mary* by Andy Weir  
+- Baking homemade classics  
+- Bedazzled art  
+- Hot yoga & lifting  
+
+#### 🌟 Goals for 2026:
+- Expand school projects in a creative way  
+- Create personal website with a personal blog
+- Run a half marathon 
+
+#### 💌 How to reach me:
+- 📧 Email  
+- 💼 LinkedIn  
+
+---
+
+✨ Thank you for visiting! Current repository under construction.
