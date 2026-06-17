@@ -6,33 +6,33 @@
 ⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪ ˖ 𓂃 ✿ 𓂃 ࣪ ˖ ⊹⊹ ࣪
 
 **💻 Currently Building**
-- Expanding past academic projects into creative pieces  
-  - LLM Crypto interactive site
+- PMOS Application  
+  - Stage: Planning, utilizing Pinterest/Figma to build a brand & researching tech stacks to support on-going dev
+  - Designed to help women better understand PCOS through educational resources, wellness recs, and relevant news updates!
 
 **🍵 Currently Learning:**
 - Strengthening backend architecture/system design skills
-- Patent fundamentals & prior art research 
+- Understanding product strategy and user-centered thinking
 
 **👓 Fields of Interest:** 
-- Tech PM Strategy  
+- Product Dev Strategy
+- Product Marketing  
 - Software Development 
-- Intellectual Property & Innovation  
 
 **🧚🏼‍♀️ Outside of Tech:**
-- Currently reading: *Project Hail Mary* by Andy Weir  
-- Baking homemade classics  
-- Hot yoga, lifting & training for a half marathon 
+- Currently reading: *Conversations on Love* by Natasha Lunn
+- Baking desserts with seasonal fruit! (recent favorite: [cherry plum crumble](https://bakersroyale.com/cherry-plum-port-crumble/)🍒)
+- Workout split: Hot yoga, lifting & 10k steps
 
 **🌟 2026 Goals:**
-- Create and launch personal website + blog
-- Extend/Create 2-3 projects for portfolio 
+- Create and launch PMOS application 
+- Continue developing stronger product thinking
 
 **💌 Connect with me!:**
 - 📧 [Email](rebeccagonzo28@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rebeccagonzo/)
 - 🪄 [Instagram](https://www.instagram.com/rebecca.gonzo/)
 
-
 ---
 
-✨ Thank you for visiting! Current repository under construction.
+✨ Thank you for visiting! I'm always learning, and building, so feel free to check back soon.
